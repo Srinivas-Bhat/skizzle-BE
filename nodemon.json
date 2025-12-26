@@ -1,0 +1,5 @@
+{
+  "watch": ["."],
+  "ext": "ts,json",
+  "exec": "node --no-warnings --loader ts-node/esm index.ts"
+}
